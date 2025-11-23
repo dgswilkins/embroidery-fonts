@@ -5,6 +5,8 @@
         "serif",
         "latin"
     ],
+    "original_font": "Linux Libertine Regular display Bold",
+    "original_font_url": "https://www.1001freefonts.com/fr/linux-libertine.font",
     "leading": 188,
     "auto_satin": false,
     "reversible": false,

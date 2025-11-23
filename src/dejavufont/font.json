@@ -5,6 +5,8 @@
         "serif",
         "latin"
     ],
+    "original_font": "Dejavu Serif Condensed",
+    "original_font_url": "https://www.fontsquirrel.com/license/dejavu-serif",
     "leading": 87,
     "auto_satin": false,
     "reversible": true,

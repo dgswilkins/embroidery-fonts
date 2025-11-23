@@ -5,6 +5,8 @@
         "handwriting",
         "latin"
     ],
+    "original_font": "null",
+    "original_font_url": "null",
     "leading": 200.0,
     "auto_satin": false,
     "reversible": false,

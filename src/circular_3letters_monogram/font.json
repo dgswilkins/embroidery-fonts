@@ -7,6 +7,8 @@
         "monogram",
         "latin"
     ],
+    "original_font": null,
+    "original_font_url": null,
     "leading": 354.26,
     "auto_satin": false,
     "reversible": false,

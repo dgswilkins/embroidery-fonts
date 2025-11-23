@@ -6,6 +6,8 @@
         "running_stitch",
         "latin"
     ],
+    "original_font": "Learning Curve",
+    "original_font_url": "https://www.bvfonts.com/fonts/details.php?id=100",
     "leading": 100,
     "auto_satin": false,
     "reversible": false,

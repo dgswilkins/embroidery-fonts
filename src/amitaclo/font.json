@@ -5,6 +5,8 @@
         "handwriting",
         "latin"
     ],
+    "original_font": "Amita",
+    "original_font_url": "https://fonts.google.com/specimen/Amita",
     "leading": 113,
     "auto_satin": false,
     "reversible": false,

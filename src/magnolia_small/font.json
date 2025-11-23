@@ -6,6 +6,8 @@
         "tiny",
         "latin"
     ],
+    "original_font": "Magnolia Script",
+    "original_font_url": "https://www.dafont.com/magnolia-script.font",
     "leading": 100,
     "auto_satin": false,
     "reversible": false,

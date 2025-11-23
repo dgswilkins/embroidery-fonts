@@ -7,6 +7,8 @@
         "display",
         "latin"
     ],
+    "original_font": "Nose Transport",
+    "original_font_url": "https://fontesk.com/nose-transport-font/",
     "leading": 150.0,
     "auto_satin": false,
     "reversible": false,

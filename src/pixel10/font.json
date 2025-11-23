@@ -5,6 +5,8 @@
         "sans_serif",
         "latin"
     ],
+    "original_font": "Jersey 10 Regular",
+    "original_font_url": "https://github.com/scfried/soft-type-jersey",
     "leading": 280.0,
     "auto_satin": false,
     "reversible": false,

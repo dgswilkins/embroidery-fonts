@@ -6,6 +6,8 @@
         "sans_serif",
         "latin"
     ],
+    "original_font": "TT Directors",
+    "original_font_url": "https://www.myfonts.com/fonts/tt-arts/tt-directors/",
     "leading": 100,
     "auto_satin": false,
     "letter_case": "upper",

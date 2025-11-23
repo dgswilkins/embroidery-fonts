@@ -8,6 +8,8 @@
         "tiny",
         "latin"
     ],
+    "original_font": "Andada Pro",
+    "original_font_url": "https://fonts.google.com/specimen/Andada+Pro",
     "leading": 90.0,
     "auto_satin": false,
     "reversible": false,

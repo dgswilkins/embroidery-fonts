@@ -6,6 +6,8 @@
         "tiny",
         "latin"
     ],
+    "original_font": "Limelight",
+   
     "size": 20,
     "leading": 80,
     "auto_satin": false,

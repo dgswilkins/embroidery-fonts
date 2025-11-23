@@ -6,7 +6,9 @@
         "monogram",
         "multicolor",
         "latin"
-    ],
+    ], 
+    "original_font": "Apex Lake",
+    "original_font_url": "https://www.1001fonts.com/apex-lake-font.html",
     "leading": 232,
     "auto_satin": false,
     "reversible": false,

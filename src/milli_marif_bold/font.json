@@ -5,6 +5,8 @@
         "sans_serif",
         "latin"
     ],
+    "original_font": "Millimetre",
+    "original_font_url": "https://gitlab.com/StudioTriple/Millimetre",
     "leading": 115,
     "auto_satin": false,
     "reversible": false,

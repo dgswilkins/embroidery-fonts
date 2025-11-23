@@ -7,6 +7,8 @@
         "sans_serif",
         "cyrillic"
     ],
+    "original_font": "Roboto",
+    "original_font_url": "https://fonts.google.com/specimen/Roboto",
     "leading": 150.0,
     "auto_satin": false,
     "reversible": false,

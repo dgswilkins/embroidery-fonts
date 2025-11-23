@@ -6,6 +6,8 @@
         "tiny",
         "latin"
     ],
+    "original_font": "Grand Hotel Marif",
+    "original_font_url": "https://fonts.google.com/specimen/Grand+Hotel",
     "leading": 190,
     "auto_satin": false,
     "reversible": false,

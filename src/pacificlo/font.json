@@ -5,6 +5,8 @@
         "handwriting",
         "latin"
     ],
+    "original_font": "Pacifico",
+    "original_font_url": "https://fonts.google.com/specimen/Pacifico",
     "leading": 100,
     "auto_satin": false,
     "reversible": false,

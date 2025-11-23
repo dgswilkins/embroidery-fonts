@@ -5,6 +5,8 @@
         "sans_serif",
         "latin"
     ],
+    "original_font": "",
+    "original_font_url": "",
     "leading": 90,
     "auto_satin": true,
     "reversible": true,

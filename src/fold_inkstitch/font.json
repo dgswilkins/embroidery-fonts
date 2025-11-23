@@ -6,6 +6,8 @@
         "running_stitch",
         "latin"
     ],
+    "original_font": "Fold",
+    "original_font_url": "https://sites.google.com/site/jameskilfiger",
     "leading": 400,
     "auto_satin": false,
     "reversible": false,

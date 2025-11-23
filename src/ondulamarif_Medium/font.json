@@ -9,6 +9,8 @@
         "sans_serif",
         "latin"
     ],
+    "original_font": "QumpellkaNo12",
+    "original_font_url": "https://www.glukfonts.pl",
     "leading": 400,
     "auto_satin": false,
     "reversible": false,

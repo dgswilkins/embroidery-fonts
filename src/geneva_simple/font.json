@@ -5,6 +5,8 @@
         "sans_serif",
         "latin"
     ],
+    "original_font": "Hershey",
+    "original_font_url": "http://evilmadscientist.com/go/hershey ",
     "leading": 60,
     "auto_satin": false,
     "reversible": true,

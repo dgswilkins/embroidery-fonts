@@ -6,6 +6,8 @@
         "multicolor",
         "latin"
     ],
+    "original_font": "Infini",
+    "original_font_url": "https://www.cnap.fr/sites/infini/",
     "leading": 350,
     "auto_satin": false,
     "reversible": false,

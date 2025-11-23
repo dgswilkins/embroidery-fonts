@@ -7,6 +7,8 @@
         "multicolor",
         "latin"
     ],
+    "original_font": "Sancreek",
+    "original_font_url": "https://fonts.google.com/specimen/Sancreek",
     "leading": 300.0,
     "auto_satin": false,
     "reversible": false,

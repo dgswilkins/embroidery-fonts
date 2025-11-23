@@ -7,6 +7,8 @@
         "tiny",
         "latin"
     ],
+    "original_font": "Nick Ainley Script",
+    "original_font_url": "https://www.behance.net/seniorsstudio",
     "leading": 40,
     "auto_satin": false,
     "reversible": false,

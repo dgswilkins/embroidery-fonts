@@ -5,6 +5,8 @@
         "crossstitch",
         "latin"
     ],
+    "original_font": null,
+    "original_font_url": null,
     "auto_satin": false,
     "reversible": false,
     "letter_case": "",

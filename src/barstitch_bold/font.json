@@ -5,6 +5,9 @@
         "sans_serif",
         "latin"
     ],
+    
+    "original_font": "Barlow Bold",
+    "original_font_url": "https://github.com/jpt/barlow",
     "leading": 128.0,
     "auto_satin": false,
     "reversible": false,

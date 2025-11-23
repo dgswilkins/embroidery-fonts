@@ -5,6 +5,8 @@
         "handwriting",
         "latin"
     ],
+    "original_font": "Digory Doodles",
+    "original_font_url": "https://www.fontsquirrel.com/fonts/digory-doodles",
     "leading": 90,
     "auto_satin": false,
     "reversible": false,

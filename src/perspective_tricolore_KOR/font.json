@@ -8,6 +8,8 @@
         "tartan",
         "latin"
     ],
+    "original_font": "Merriweather4",
+    "original_font_url": "https://github.com/EbenSorkin/Merriweather4",
     "leading": 170.0,
     "auto_satin": false,
     "reversible": false,

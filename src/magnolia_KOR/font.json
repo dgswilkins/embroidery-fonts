@@ -5,9 +5,11 @@
         "handwriting",
         "latin"
     ],
+    "original_font": "Magnolia Script",
+    "original_font_url": "https://www.dafont.com/magnolia-script.font",
     "leading": 100,
     "auto_satin": false,
-    "reversible": false,
+    "rev,ersible": false,
     "default_glyph": " ",
     "min_scale": 0.8,
     "max_scale": 1.2,

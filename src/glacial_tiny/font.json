@@ -6,6 +6,8 @@
         "tiny",
         "latin"
     ],
+    "original_font": "Glacial Indifference",
+    "original_font_url": "https://www.fontsquirrel.com/fonts/glacial-indifference",
     "leading": 35,
     "auto_satin": false,
     "reversible": true,

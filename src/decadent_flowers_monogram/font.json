@@ -11,6 +11,8 @@
         "serif",
         "latin"
     ],
+    "original_font": "Linux Libertine Bold",
+    "original_font_url": "https://libertine-fonts.org/",
     "leading": 480.0,
     "auto_satin": false,
     "reversible": false,

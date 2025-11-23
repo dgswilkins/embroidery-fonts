@@ -7,6 +7,8 @@
         "tartan",
         "latin"
     ],
+    "original_font": "Spicy Rice",
+    "original_font_url": "https://fonts.google.com/specimen/Spicy+Rice",
     "leading": 165,
     "auto_satin": false,
     "reversible": false,

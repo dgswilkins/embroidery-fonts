@@ -5,6 +5,8 @@
         "serif",
         "latin"
     ],
+    "original_font": "Instrument Serif",
+    "original_font_url": " https://fonts.google.com/specimen/Instrument+Serif",
     "leading": 150,
     "auto_satin": false,
     "reversible": true,
