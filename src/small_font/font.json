@@ -6,7 +6,8 @@
         "tiny",
         "latin"
     ],
-     "original_font": "",
+    "font_licence":"SIL Open Font License v1.1",
+    "original_font": "",
     "original_font_url": "",
     "leading": 30,
     "auto_satin": true,
