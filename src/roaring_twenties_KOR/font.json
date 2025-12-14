@@ -5,6 +5,9 @@
         "display",
         "latin"
     ],
+    "font_licence":"SIL Open Font License v1.1",
+    "original_font": "Limelight",
+    "original_font_url": "https://fonts.google.com/specimen/Limelight",
     "size": 20,
     "leading": 80,
     "auto_satin": false,

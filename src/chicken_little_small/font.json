@@ -11,6 +11,9 @@
         "tiny",
         "latin"
     ],
+    "font_licence":"SIL Open Font License v1.1",
+    "original_font": "Henny Penny",
+    "original_font_url": "https://fonts.google.com/specimen/Henny+Penny",
     "min_scale": 0.25,
     "max_scale": 0.45,
     "size": 35,

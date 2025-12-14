@@ -5,6 +5,9 @@
         "handwriting",
         "latin"
     ],
+    "font_licence":"SIL Open Font License v1.1",
+    "original_font": "Amita",
+    "original_font_url": "https://fonts.google.com/specimen/Amita",
     "leading": 113,
     "auto_satin": false,
     "reversible": false,

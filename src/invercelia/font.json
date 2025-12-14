@@ -7,6 +7,9 @@
         "monogram",
         "latin"
     ],
+    "font_licence":"SCC-BY-SA 4.0",
+    "original_font": "",
+    "original_font_url": "",
     "leading": 350,
     "auto_satin": false,
     "reversible": false,

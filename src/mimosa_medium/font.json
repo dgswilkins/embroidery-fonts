@@ -7,6 +7,9 @@
         "display",
         "latin"
     ],
+    "font_licence":"SIL Open Font License v1.1",
+    "original_font": "Nose Transport",
+    "original_font_url": "https://fontesk.com/nose-transport-font/",
     "leading": 150.0,
     "auto_satin": false,
     "reversible": false,

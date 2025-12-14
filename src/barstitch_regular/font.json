@@ -5,6 +5,9 @@
         "sans_serif",
         "latin"
     ],
+    "font_licence":"SIL Open Font License v1.1",
+    "original_font": "Barlow Regular",
+    "original_font_url": "https://github.com/jpt/barlow",
     "leading": 110.0,
     "auto_satin": false,
     "reversible": false,

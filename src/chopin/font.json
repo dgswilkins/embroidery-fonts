@@ -7,6 +7,8 @@
         "monogram",
         "latin"
     ],
+    "original_font": "Chopin Script",
+    "original_font_url": "https://www.fonts4free.net/chopin-script-font.html",
     "leading": 226,
     "auto_satin": false,
     "reversible": true,

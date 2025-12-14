@@ -5,6 +5,9 @@
         "handwriting",
         "latin"
     ],
+    "font_licence":"SIL Open Font License v1.1",
+    "original_font": "Reenie Beanie",
+    "original_font_url": "https://fonts.google.com/specimen/Reenie+Beanie",
     "leading": 120,
     "auto_satin": false,
     "reversible": false,
